@@ -1,4 +1,4 @@
 ---
-url: /@pages/archivesPage.md
+url: /xpz/@pages/archivesPage.md
 ---
 

@@ -1,4 +1,4 @@
 ---
-url: /@pages/categoriesPage.md
+url: /xpz/@pages/categoriesPage.md
 ---
 

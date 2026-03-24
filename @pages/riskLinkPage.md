@@ -1,4 +1,4 @@
 ---
-url: /@pages/riskLinkPage.md
+url: /xpz/@pages/riskLinkPage.md
 ---
 

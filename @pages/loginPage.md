@@ -1,4 +1,4 @@
 ---
-url: /@pages/loginPage.md
+url: /xpz/@pages/loginPage.md
 ---
 

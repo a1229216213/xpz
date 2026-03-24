@@ -1,4 +1,4 @@
 ---
-url: /@pages/tagsPage.md
+url: /xpz/@pages/tagsPage.md
 ---
 
